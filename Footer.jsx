@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
-import { useLanguage } from '../context/LanguageContext';
+
+
 import { motion, AnimatePresence } from 'framer-motion';
 import { Mail, MessageCircle, Phone, MapPin, Globe, Send, Loader2, CheckCircle2, AlertCircle } from 'lucide-react';
 

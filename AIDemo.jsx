@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useLanguage } from '../context/LanguageContext';
+
 import { motion, AnimatePresence } from 'framer-motion';
 import { Send, Bot, User, Sparkles } from 'lucide-react';
 

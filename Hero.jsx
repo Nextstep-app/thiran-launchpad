@@ -1,5 +1,7 @@
 import React from 'react';
-import { useLanguage } from '../context/LanguageContext';
+
+
+
 import { motion } from 'framer-motion';
 import { Rocket, Zap, ChevronRight, MessageCircle } from 'lucide-react';
 
